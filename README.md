@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/pruthviiiii?style=flat-square)](https://peerlist.io/pruthviiiii)
 <p align="left">
 <a href="https://twitter.com/pruthviiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pruthviiiii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pruthviraj-hanumantharayappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthviraj hanumantharayappa" height="30" width="40" /></a>

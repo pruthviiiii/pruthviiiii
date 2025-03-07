@@ -1,6 +1,6 @@
 ![MasterHead](./images/cover.jpg)
 <h1 align="center">Hi , I'm PruthviRaj</h1>
-<h3 align="center">A Frontend developer from India</h3>
+<h3 align="center">A FullStack developer from India</h3>
 <img align="right" alt="Coding" width="380" src="./images/coder.gif">
 
 

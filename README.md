@@ -40,29 +40,20 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://copado.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/C/copado-logo-90E12E4B45-seeklogo.com.png" alt="copado" width="40" height="40"/>
-  </a>
+  <a href="https://www.copado.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Copado-DevOps-blue?style=for-the-badge" alt="copado" height="28"/>
+</a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
   <a href="https://www.openai.com/chatgpt" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="chatgpt" width="40" height="40"/>
   </a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="github copilot" width="40" height="40"/>
-  </a>
-  <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="cursor ai" width="40" height="40"/>
-  </a>
-  <a href="https://www.notion.so/product/ai" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion ai" width="40" height="40"/>
   </a>
 </p>
 

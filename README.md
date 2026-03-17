@@ -1,10 +1,12 @@
 ![MasterHead](./images/cover.jpg)
 <h1 align="center">Hi , I'm PruthviRaj</h1>
-<h3 align="center">A FullStack developer from India</h3>
+<h3 align="center">A Salesforce developer in UAE, Dubai</h3>
 <img align="right" alt="Coding" width="380" src="./images/coder.gif">
 
 - 📫 How to reach me **pruthviraj3234@gmail.com**
+- **+971-529548924**
 - **+91-7019493320**
+
 
 <h3 align="left">Connect with me:</h3>
 

@@ -41,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://www.copado.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Copado-DevOps-blue?style=for-the-badge" alt="copado" height="28"/>
+  <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://www.copado.com" alt="copado" width="40" height="40"/>
 </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/>
@@ -51,9 +51,6 @@
   </a>
   <a href="https://www.openai.com/chatgpt" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/chatgpt.png" alt="chatgpt" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="github copilot" width="40" height="40"/>
   </a>
 </p>
 

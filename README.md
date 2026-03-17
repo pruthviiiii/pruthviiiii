@@ -1,5 +1,5 @@
 ![MasterHead](./images/cover.jpg)
-<h1 align="center">Hi , I'm PruthviRaj</h1>
+<h1 align="center">Hi , I'm PRUTHVIRAJ HANUMANTHARAYAPPA</h1>
 <h3 align="center">A Salesforce developer in UAE, Dubai</h3>
 <img align="right" alt="Coding" width="380" src="./images/coder.gif">
 

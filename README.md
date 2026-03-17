@@ -19,10 +19,10 @@
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/salesforce.png" alt="salesforce" width="40" height="40"/>
   </a>
-  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target="_blank" rel="noreferrer">
+  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target=" blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/source-code.png" alt="apex" width="40" height="40"/>
   </a>
-  <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer">
+  <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="  blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/javascript.png" alt="lightning web components" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com/docs/platform/lwc/guide/create-components-css" target="_blank" rel="noreferrer">
